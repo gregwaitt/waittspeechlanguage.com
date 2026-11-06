@@ -1,0 +1,34 @@
+{
+  "index.html": {
+    "size": 281154,
+    "wix_network_urls": [],
+    "other_external": [
+      "https://www.waittspeechlanguage.com/"
+    ],
+    "missing_local": [],
+    "forms": 0,
+    "font_faces": 0
+  },
+  "contact.html": {
+    "size": 544707,
+    "wix_network_urls": [],
+    "other_external": [
+      "https://api.web3forms.com/submit",
+      "https://www.waittspeechlanguage.com/contact"
+    ],
+    "missing_local": [],
+    "forms": 1,
+    "font_faces": 0
+  },
+  "contact/index.html": {
+    "size": 544740,
+    "wix_network_urls": [],
+    "other_external": [
+      "https://api.web3forms.com/submit",
+      "https://www.waittspeechlanguage.com/contact"
+    ],
+    "missing_local": [],
+    "forms": 1,
+    "font_faces": 0
+  }
+}
